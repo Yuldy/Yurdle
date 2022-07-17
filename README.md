@@ -1,2 +1,2 @@
-# Yurdle
+# YURDLE
 Wordle Clone
